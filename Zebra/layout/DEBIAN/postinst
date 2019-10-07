@@ -1,4 +1,0 @@
-#!/bin/sh
-
-chown root:wheel /Applications/Zebra.app/supersling
-chmod 6755 /Applications/Zebra.app/supersling

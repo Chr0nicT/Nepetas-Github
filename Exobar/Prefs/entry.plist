@@ -1,9 +1,0 @@
-{
-    entry = {
-	bundle = ExobarPrefs;
-	cell = PSLinkCell;
-	detail = EXBPrefsListController;
-	isController = 1;
-	label = Exobar;
-    };
-}

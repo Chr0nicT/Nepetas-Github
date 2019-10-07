@@ -1,3 +1,0 @@
-# Nanobanners
-
-Minimalist banners.

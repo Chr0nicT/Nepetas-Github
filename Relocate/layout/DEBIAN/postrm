@@ -1,6 +1,0 @@
-#!/bin/bash
-
-killall -9 fmfd
-killall -9 findmydeviced
-killall -9 fmflocatord
-exit 0

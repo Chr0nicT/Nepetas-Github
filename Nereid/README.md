@@ -1,3 +1,0 @@
-# Nereid
-
-Minimalist media controls.

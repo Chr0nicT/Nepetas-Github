@@ -1,3 +1,0 @@
-# Docky
-
-Dock customizer.
