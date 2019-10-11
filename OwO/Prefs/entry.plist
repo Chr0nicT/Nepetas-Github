@@ -1,9 +1,0 @@
-{
-    entry = {
-	bundle = OwOPrefs;
-	cell = PSLinkCell;
-	detail = OwOPrefsListController;
-	isController = 1;
-	label = OwO;
-    };
-}

@@ -1,9 +1,0 @@
-{
-    entry = {
-	bundle = NoIdleTimerPrefs;
-	cell = PSLinkCell;
-	detail = NITPrefsListController;
-	isController = 1;
-	label = NoIdleTimer;
-    };
-}

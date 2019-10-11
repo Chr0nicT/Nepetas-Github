@@ -1,7 +1,0 @@
-/.theos
-obj
-.DS_Store
-._*
-/*.xcodeproj
-/packages
-/TODO

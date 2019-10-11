@@ -1,3 +1,0 @@
-# ReachIt
-
-Reachability media player.
